@@ -1,9 +1,9 @@
 <img src="./assets/Banner.png"></img>
 
 <p align="center">
-  <img alt="Release" src="https://img.shields.io/github/v/release/Md-Siam-Mia-Man/ffusion?style=for-the-badge">
+  <img alt="Release" src="https://img.shields.io/github/v/release/rootLocalGhost/ffusion?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/github/license/Md-Siam-Mia-Man/ffusion?style=for-the-badge&color=48bb78">
+  <img alt="License" src="https://img.shields.io/github/license/rootLocalGhost/ffusion?style=for-the-badge&color=48bb78">
 </p>
 
 **FFusion** is a powerful, modern desktop GUI for the [FFmpeg](https://ffmpeg.org/) command-line tool. Built with Electron, it's designed to be a versatile media toolkit that simplifies your video and audio processing workflow without sacrificing control.
@@ -52,7 +52,7 @@ Interested in contributing or running the app from the source? Here’s how:
     ```bash
     # Make sure Git LFS is installed first!
     git lfs install
-    git clone https://github.com/Md-Siam-Mia-Man/FFUSION.git
+    git clone https://github.com/rootLocalGhost/FFUSION.git
     cd FFUSION
     ```
 
